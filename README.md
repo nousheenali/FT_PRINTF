@@ -1,2 +1,2 @@
 # FT_PRINTF
-Create your own printf function
+Create your own ft_printf function that mimics printf() by handling the following conversions: cspdiuxX%
